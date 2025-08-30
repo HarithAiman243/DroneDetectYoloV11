@@ -1,0 +1,6 @@
+names:
+- drone
+nc: 1
+path: D:/fyp/Desktop/Drone/drone_dataset
+train: D:/fyp/Desktop/Drone/drone_dataset/train
+val: D:/fyp/Desktop/Drone/drone_dataset/valid
